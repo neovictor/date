@@ -1,0 +1,9 @@
+[submodule "modules/email"]
+	path = modules/email
+	url = http://git.drupal.org/project/email
+[submodule "modules/rules"]
+	path = modules/rules
+	url = http://git.drupal.org/project/rules.git
+[submodule "modules/date"]
+	path = modules/date
+	url = http://git.drupal.org/project/date.git
