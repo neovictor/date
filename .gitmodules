@@ -13,3 +13,6 @@
 [submodule "modules/flag"]
 	path = modules/flag
 	url = http://git.drupal.org/project/flag
+[submodule "modules/masquerade"]
+	path = modules/masquerade
+	url = http://git.drupal.org/project/masquerade.git
