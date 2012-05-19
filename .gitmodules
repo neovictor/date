@@ -7,3 +7,9 @@
 [submodule "modules/date"]
 	path = modules/date
 	url = http://git.drupal.org/project/date.git
+[submodule "modules/link"]
+	path = modules/link
+	url = http://git.drupal.org/project/link
+[submodule "modules/flag"]
+	path = modules/flag
+	url = http://git.drupal.org/project/flag
